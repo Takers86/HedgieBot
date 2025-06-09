@@ -18028,8 +18028,7 @@
   "DataFormat": "Currency",
   "Value": 8357143.0
 },
-  [
-  {
+{
     "Section": "Source",
     "RowReference": "1",
     "DateStamp": "2024-10-11",
@@ -19780,5 +19779,5 @@
     "RowReference": "66",
     "DateStamp": "2024-10-11",
     "StockMarketTicker": "NASDAQ:ON",
-    "
+  }
 ]
